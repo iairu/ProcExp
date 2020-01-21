@@ -4,6 +4,8 @@ Procreate Timelapse Batch Exporter from either .procreate files or application c
 > [**Download release here**](https://github.com/azurry/ProcExp/releases) (.exe + dependencies)
 >
 > [Download source](https://github.com/azurry/ProcExp/archive/master.zip) (.ahk + dependencies)
+>
+> [Download actual source without dependencies](https://raw.githubusercontent.com/azurry/ProcExp/master/ProcExp.ahk) (.ahk only) > Rightclick > Save As
 
 | .procreate file method               | App content method[^stack bug]       |
 | ------------------------------------ | ------------------------------------ |
