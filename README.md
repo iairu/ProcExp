@@ -1,11 +1,11 @@
 # ProcExp
 Procreate Timelapse Batch Exporter from either .procreate files or application content. Scripted in [AutoHotkey](https://www.autohotkey.com/).
 
-> [**Download release here**](https://github.com/azurry/ProcExp/releases) (.exe + dependencies)
+> [**Download release here**](https://github.com/iairu/ProcExp/releases) (.exe + dependencies)
 >
-> [Download source](https://github.com/azurry/ProcExp/archive/master.zip) (.ahk + dependencies)
+> [Download source](https://github.com/iairu/ProcExp/archive/master.zip) (.ahk + dependencies)
 >
-> [Download actual source without dependencies](https://raw.githubusercontent.com/azurry/ProcExp/master/ProcExp.ahk) (.ahk only) > Rightclick > Save As
+> [Download actual source without dependencies](https://raw.githubusercontent.com/iairu/ProcExp/master/ProcExp.ahk) (.ahk only) > Rightclick > Save As
 
 | .procreate file method               | App content method[^stack bug]       |
 | ------------------------------------ | ------------------------------------ |
@@ -56,7 +56,7 @@ Open an Issue on GitHub if you want to get these things fixed.
 
 ### Credits
 
-Code, banner image and a ton of time spent by Azurry (http://azurry.com)
+Code, banner image and a ton of time spent by iairu (http://iairu.com)
 Scripted in AutoHotkey (https://www.autohotkey.com)
 
 Procreate logo by Savage Interactive Pty Ltd.
@@ -84,5 +84,5 @@ FFMPEG for .mp4 concatenation
 ### "License"
 
 You're free to fork and do whatever you want to the ProcExp.ahk file.
-Credit is appreciated (by [linking to this repo](https://github.com/azurry/ProcExp) and/or [my github profile](https://github.com/azurry)).
+Credit is appreciated (by [linking to this repo](https://github.com/iairu/ProcExp) and/or [my github profile](https://github.com/iairu)).
 Also, no warranty provided. Use at your own risk.

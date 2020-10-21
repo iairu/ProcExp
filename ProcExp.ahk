@@ -1,6 +1,6 @@
 ﻿/*
 Procreate Batch Timelapse Export
-made by AZURRY
+made by iairu
 
 Changelog:
     v1 23:29 19-12-17 - ParseXML + KeepOnlyE parsing to a temp file
@@ -52,7 +52,7 @@ Gui Add, Picture, x0 y0, %A_Temp%\procreate_timelapse_export_BANNER.png
 
 ; // INTRODUCTION
 Gui Add, GroupBox, x8 y88 w461 h91, Introduction
-;Gui Add, Text, x32 y112 w299 h58, Batch exporting all the Procreate footage is no easy process.`nClick the "More info" button for a set of instructions.`n`nScripted by Azurry in 2020.
+;Gui Add, Text, x32 y112 w299 h58, Batch exporting all the Procreate footage is no easy process.`nClick the "More info" button for a set of instructions.`n`nScripted by iairu in 2020.
 Gui Add, Text, x32 y112 w299 h58, Export all .procreate files in "Procreate" format for which you want timelapses and put them into the same folder on PC.`n`nClick the "More info" button for "app content" method.
 Gui Add, Button, x352 y112 w80 h23 gMoreInfo, Mo&re Info
 Gui Add, Button, x352 y140 w80 h23 gCredits, &Credits
@@ -249,7 +249,7 @@ GuiClose:
 Credits:
     Text = 
     (LTrim
-        Code, banner image and a ton of time spent by Azurry (http://azurry.com)
+        Code, banner image and a ton of time spent by iairu (http://iairu.com)
         Scripted in AutoHotkey (https://www.autohotkey.com)
         
         Apple Inc's plutil and associated libraries for PLIST conversion
